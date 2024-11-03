@@ -1,8 +1,10 @@
+sentence-transformers==3.2.1
+numpy==1.26.4
+langchain==0.3.6
+PyPDF2==3.0.1
+google-generativeai==0.8.3
 protobuf==3.20.3
-langchain
-langchain-chroma
-langchain-google-genai
-google-generativeai
-langchain-community
+google-ai-generativelanguage==0.6.10
 streamlit
-python-dotenv
+chromadb
+# pysqlite3-binary
