@@ -3,7 +3,6 @@ import google.generativeai as genai
 import numpy as np
 from sentence_transformers import SentenceTransformer
 import chromadb
-from chromadb.config import Settings
 from dotenv import load_dotenv
 
 # Load environment variables from .env file
